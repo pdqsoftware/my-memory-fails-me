@@ -1,0 +1,20 @@
+{
+  "name": "my-memory-fails-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdqsoftware/my-memory-fails-me.git"
+  },
+  "keywords": [],
+  "author": "Paul Pritchard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdqsoftware/my-memory-fails-me/issues"
+  },
+  "homepage": "https://github.com/pdqsoftware/my-memory-fails-me#readme"
+}
