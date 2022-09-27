@@ -1,13 +1,13 @@
 baseURL = 'https://pdqsoftware.github.io/my-memory-fails-me/'
 languageCode = 'en-us'
-title = "Paul Pritchard's blog"
+title = "Paul Pritchard's technical blog"
 theme = 'm10c'
 
 [params]
     author = 'Paul Pritchard'
-    description = 'A blog about React.js'
+    description = 'The memory-jogging notes that I have made whilst working with React.js and Node.js'
 
     [[params.social]]
         icon = 'github'
-        name = 'GitHub'
+        name = 'My GitHub account'
         url = 'https://github.com/pdqsoftware'
